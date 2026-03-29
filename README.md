@@ -1,7 +1,7 @@
 # bharti25bai10835
 # Hi, I'm Bharti 
 
-B.Tech CSE-AI student at VIT Bhopal.
+B.Tech CSE-AI with ML student at VIT Bhopal.
 
 ## About Me
 - Branch: Computer Science with AI-ML
